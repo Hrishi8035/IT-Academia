@@ -1,5 +1,5 @@
 # IT-Academia 
-*A project made during my internship at Prinston Smart Engineers.*
+**A project made during my internship at Prinston Smart Engineers.**
 
 The "IT Academia" is a web project developed using a combination of HTML, CSS, and JavaScript. It serves as an online platform for an IT training institute to showcase their courses, facilitate student enrollment, and provide information to potential learners. 
 
