@@ -1,4 +1,5 @@
-# IT-Academia
+# IT-Academia 
+A project made during my internship at Prinston Smart Engineers
 The "IT Academia" is a web project developed using a combination of HTML, CSS, and JavaScript. It serves as an online platform for an IT training institute to showcase their courses, facilitate student enrollment, and provide information to potential learners. 
 
 HTML is used to structure the website's content, creating pages for the homepage, course listings, registration forms, and contact information. CSS is employed for styling, ensuring a visually appealing and user-friendly interface. This includes layout design, typography, color schemes, and responsive design to adapt the site for various devices.
